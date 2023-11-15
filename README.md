@@ -10,7 +10,7 @@ Create an Application website using html and css which satisfies the acceptance 
 Code was generated from scratch, using online guides and Bootcamp notes/coursework
 
 **Installing --
-website can be viewed at: 
+website can be viewed at: https://unfazedxx.github.io/challenge2-application-site/
 
 **Author --
 Kunal Shah NOVEMBER 2023
