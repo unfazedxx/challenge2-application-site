@@ -1,0 +1,171 @@
+* {
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: auto;
+    width: 100%;
+    padding: auto;
+    background-color: #734F96;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+
+}
+
+section{
+    display: block;
+    background: white;
+}
+
+
+
+/*CLASS ELEMENTS*/
+    
+.img {
+    border:black 5px solid;
+    display: inline-flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+    text-align: center;
+    }
+    
+
+.pageheader {
+    font-size: 50px;
+    color: white;
+    text-decoration: none;
+
+    
+}
+
+.footer{
+    text-align: center;
+    width: 100%;
+    background-color: #734F96;
+    font-size: 20px;
+
+}
+
+
+.h {
+  left: 0;
+  top: 0;
+  height: auto;
+  width: 100%;
+  background: white;
+  text-decoration: underline;
+  text-align: left;
+  padding: 35px
+}
+
+
+.H2 {
+  height: auto;
+  width: 100%;
+  background: white;
+  text-decoration:underline;
+  text-align: left;
+  padding: 15px
+    
+
+
+}
+
+.Padding{
+  padding: 20px;
+}
+
+/*NAVIGATION*/
+nav {
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+    margin-left: 20px  
+          
+        
+    }
+    
+
+
+nav a:hover{
+    color: lightblue;
+}
+
+nav a:active{
+    color: blue;
+}
+
+/*CONTACT FORM AND SUBMIT BUTTON*/
+
+input[type=text], select, textarea {
+    width: 100%; 
+    padding: 12px;  
+    border: 1px solid #ccc; 
+    border-radius: 4px; 
+    box-sizing: border-box; 
+    margin-top: 6px; 
+    margin-bottom: 16px; 
+    resize: vertical 
+  }
+  
+input[type=submit] {
+    background-color: #04AA6D;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+input[type=submit]:hover {
+    background-color: #45a049;
+  }
+  
+.contactform {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    width: 50%;
+    margin: left;
+    
+  }
+
+
+#div li{
+    border: 2px solid green;
+    padding: 5px;
+    margin: 3px;
+    position: relative;  
+    text-align: center;
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+  #imgresize2{
+    height: 150px;
+    width: 150px
+  }
+
+
+#imgresize{
+    height: 300px;
+    width: 300px
+}
+
+#selfieResize{
+    height: 250px;
+    width: 175px;
+    margin: 0 15px 0 0;
+    padding: 10px;
+}
