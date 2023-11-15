@@ -17,3 +17,6 @@ Kunal Shah NOVEMBER 2023
 
 **Acknowledgments --
 UTOR Bootcamp Module 2
+
+
+![Screenshot of deployed webpage](image.png)
